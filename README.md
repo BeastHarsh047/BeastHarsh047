@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m currently a student, learning Python and building a 
 
 ## 💬 My Mantra
 
-> **"The Loss doesn't deter me, the Victory doesn't praise me. I seek more."**
+> **"The Loss doesn't deter me, the Victory doesn't praise me. I seek MORE!."**
 
 ---
 
@@ -25,11 +25,6 @@ Welcome to my GitHub! I’m currently a student, learning Python and building a 
 
 Feel free to connect or collaborate!
 - **Email:** harshssharma47@gmail.com
-
----
-
-### ⚡ Fun Fact
-I believe every setback is a setup for a greater comeback.
 
 ---
 
