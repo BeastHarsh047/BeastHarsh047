@@ -9,7 +9,6 @@ Welcome to my GitHub! I’m currently a student, learning Python and building a 
 ## 🧠 About Me
 
 - 🌱 **Learning:** Python, basics of AI & ML
-- 🎮 **Gaming Enthusiast:** Always up for a new challenge
 - ♟️ **Chess Player:** Strategy is my second nature
 - 📚 **Bookworm:** From fiction to philosophy, I read it all
 
